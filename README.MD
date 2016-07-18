@@ -28,6 +28,7 @@ Izvestaje sa sastanka mozete pogledati [ovde](sastanci.md)
  - https://www.ethereum.org/
  - http://www.tdcommons.org/cgi/viewcontent.cgi?article=1092&context=dpubs_series
  - http://thegovlab.org/digital-tools-for-participatory-democracy
+ - https://telegram.org/
  
 
 ## Literatura ##
