@@ -17,7 +17,7 @@ Za sve problem koje imate pistite na direktna.podrska@gmail.com
  - in browser do 8 clanova: https://appear.in/
  - do 50 clanova, max 40 min: http://zoom.us/
  - do 25 clanova: skype
- -
+ 
 ## Platforme koje treba proveriti ##
  - https://voteflux.org/
  - http://ideabot.co/ (za ideje)
