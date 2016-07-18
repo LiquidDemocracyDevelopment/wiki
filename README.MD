@@ -2,8 +2,12 @@
 
 Alternativa ovom wikiju moze biti na https://direktnademokratija.groovehq.com/help_center
 
+
 ## Podrska ##
 Za sve problem koje imate pistite na direktna.podrska@gmail.com
+
+## Sastanci ##
+Izvestaje sa sastanka mozete pogledati [ovde](sastanci.md)
 
 ## Alati na raspolaganju ##
  - komunikacija: https://direktnademokratija.slack.com
