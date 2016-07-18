@@ -2,7 +2,6 @@
 
 Alternativa ovom wikiju moze biti na https://direktnademokratija.groovehq.com/help_center
 
-
 ## Podrska ##
 Za sve problem koje imate pistite na direktna.podrska@gmail.com
 
@@ -16,6 +15,8 @@ Izvestaje sa sastanka mozete pogledati [ovde](sastanci.md)
  - interni issue tracker: 
      -  https://www.vivifyscrum.com/
      -  https://todoist.com/ (ovde mali video o alatu https://support.todoist.com/hc/en-us/articles/205378051-Quick-Guide)
+     - http://ideabot.co/ (za ideje)
+     - Ova je najbolja za ideje ali je skupa: http://ideashare.opencrowd.com
      
 ### Vieo/audio conf ##
  - in browser do 8 clanova: https://appear.in/
@@ -24,9 +25,10 @@ Izvestaje sa sastanka mozete pogledati [ovde](sastanci.md)
  
 ## Platforme koje treba proveriti ##
  - https://voteflux.org/
- - http://ideabot.co/ (za ideje)
+ - https://www.ethereum.org/
+ - http://www.tdcommons.org/cgi/viewcontent.cgi?article=1092&context=dpubs_series
+ - http://thegovlab.org/digital-tools-for-participatory-democracy
  
 
 ## Literatura ##
  - http://www.heliks.rs/assets/text/nex_odlomak.pdf
- - 
