@@ -29,7 +29,18 @@ Izvestaje sa sastanka mozete pogledati [ovde](sastanci.md)
  - http://www.tdcommons.org/cgi/viewcontent.cgi?article=1092&context=dpubs_series
  - http://thegovlab.org/digital-tools-for-participatory-democracy
  - https://telegram.org/
- 
+
+## Teme za analizu ##
+
+ - Kako doci do sredstava. Obavezno pogledati [voteflux iskustva](https://community.voteflux.org/t/q-a-about-the-flux-startup/344)
+ - sta sve platforma treba da nudi - spisak funkcionalnosti
+ - Primer funkcionalnosti: [spisak debata](http://www.digitaldemocracy.org.uk/support/index.php)
 
 ## Literatura ##
  - http://www.heliks.rs/assets/text/nex_odlomak.pdf
+
+## Linkovi od interesa ##
+
+ - [Voteflux Volunteers info](https://community.voteflux.org/t/volunteers-welcome-move-on-over-to-slack/29)
+ - [voteflux slack registration](http://volunteer-slack.voteflux.org/)
+ 
